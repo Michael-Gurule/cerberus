@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Model artifacts
+*.pkl
+*.h5
+*.pth
+
+# Data files
+*.csv
+*.parquet
+data/raw/
+data/processed/
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+*.tmp
+temp/
