@@ -180,6 +180,6 @@ python -m pytest tests/test_api.py::test_inference_latency -v
 
 # Michael Gurule 
 - GitHub: [@michael-gurule](https://github.com/michael-gurule)
-- LinkedIn: [michaeljgurule](www.linkedin.com/in/michael-j-g-447aa2134)
+- LinkedIn: [michaeljgurule](https://www.linkedin.com/in/michael-j-g-447aa2134/)
 - Email: michaelgurule1164@gmail.com
 
