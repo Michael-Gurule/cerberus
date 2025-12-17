@@ -53,7 +53,7 @@ fraud-detection-system/
 ### 1. Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/fraud-detection-system.git
+git clone https://github.com/michael-gurule/fraud-detection-system.git
 cd fraud-detection-system
 
 # Create virtual environment
