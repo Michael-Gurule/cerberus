@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/41196e9f-8182-4d38-a53c-f7e677c6f70f" alt="Alt text description">
@@ -6,6 +7,13 @@
 </p>  
 <br>
 
+=======
+#CERBERUS
+
+
+
+#  Real-Time Fraud Detection System
+>>>>>>> Stashed changes
 
 A production-ready machine learning system for detecting credit card fraud in real-time with sub-100ms latency. Built with XGBoost, FastAPI, and Streamlit.
 
@@ -153,22 +161,22 @@ Dashboard opens at: `http://localhost:8501`
 
 ### Classification Metrics
 
-|Metric|Value|
-|---|---|
-|Precision|83.2%|
-|Recall|89.3%|
-|F1-Score|86.1%|
-|ROC-AUC|0.967|
-|PR-AUC|0.894|
+| Metric    | Value |
+| --------- | ----- |
+| Precision | 83.2% |
+| Recall    | 89.3% |
+| F1-Score  | 86.1% |
+| ROC-AUC   | 0.967 |
+| PR-AUC    | 0.894 |
 
 ### Business Impact (Monthly)
 
-|Metric|Value|
-|---|---|
-|Fraud Prevented|$534,000|
-|Missed Fraud Cost|$57,500|
-|False Alarm Cost|$2,300|
-|**Net Benefit**|**$474,200**|
+| Metric            | Value        |
+| ----------------- | ------------ |
+| Fraud Prevented   | $534,000     |
+| Missed Fraud Cost | $57,500      |
+| False Alarm Cost  | $2,300       |
+| **Net Benefit**   | **$474,200** |
 
 ### Confusion Matrix
 
