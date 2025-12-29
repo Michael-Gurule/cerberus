@@ -1,4 +1,11 @@
-#  Real-Time Fraud Detection System
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41196e9f-8182-4d38-a53c-f7e677c6f70f" alt="Alt text description">
+<p align="center">
+  <strong>Real-Time Fraud Detection System</strong><br>
+</p>  
+<br>
+
 
 A production-ready machine learning system for detecting credit card fraud in real-time with sub-100ms latency. Built with XGBoost, FastAPI, and Streamlit.
 
@@ -327,9 +334,15 @@ The Streamlit dashboard provides four main views:
 
 This project is licensed under the MIT License - see the file for details.
 
-## Author
+## Contributing
 
-**Michael J. Gurule**
+This is a portfolio project. For questions or collaboration:
+
+**Michael Gurule**
+
+- [![Email Me](https://img.shields.io/badge/EMAIL-8A2BE2)](michaelgurule1164@gmail.com)
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/michael-j-gurule-447aa2134)
+- [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@michaelgurule1164)
 
 ## Acknowledgments
 
@@ -339,5 +352,9 @@ This project is licensed under the MIT License - see the file for details.
 
 ---
 
-**⭐ If you found this project helpful, please consider giving it a star!**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9035e119-4de0-4d9d-9b28-fd6daf2bbcbd" alt="CERBERUS" width="40">
+  <br>
+  <sub>Built by Michael Gurule | Data: Synnthetic</sub>
+</p>
 
